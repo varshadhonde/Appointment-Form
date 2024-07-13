@@ -1,0 +1,8 @@
+.myModalHeader{
+    --slds-c-modal-header-color-background: lightblue;
+    font-weight: bold;
+}
+.customClass{
+        position: relative;
+        overflow: auto;
+}
