@@ -93,7 +93,7 @@ export default class AppointmentForm extends LightningElement {
                 const fields = {
                     'Description__c': this.description, 'Subject__c': this.subject,
                     'Appointment_Date__c': this.date, 'Appointment_Time__c': this.time,
-                    'Contact__c': this.conSelectedId
+                    'Contact__c': this.conSelectId
                     
                 };
     
